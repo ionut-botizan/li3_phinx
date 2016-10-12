@@ -1,0 +1,24 @@
+{
+	"name": "ionut-botizan/li3_phinx",
+	"description": "A Li3 plugin that acts as a wrapper for the Phinx migrations library.",
+	"type": "li3-library",
+	"keywords": [
+		"lithium",
+		"li3",
+		"plugin",
+		"phinx",
+		"migrations"
+	],
+	"require": {
+		"php": ">=5.3",
+		"composer/installers": "1.*",
+		"robmorgan/phinx": "^0.6.4"
+	},
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Ionut Botizan",
+			"email": "ionut.botizan@gmail.com"
+		}
+	]
+}
